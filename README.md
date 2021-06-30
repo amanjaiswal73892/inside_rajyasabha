@@ -12,6 +12,7 @@
 
 ## Getting Started
 To run the application on local, make your system configured with required libraries given in requirments.txt file.
+-Please email:amanjaiswal@dal.ca to obtain the embeddings and dataset (too large to host).
 
 ## Running the application
 To run the application, Run python3 main.py, application will start running on http://127.0.0.1:8050/
